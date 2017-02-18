@@ -1,0 +1,6 @@
+package herdingcats
+
+object Cats {
+
+}
+
