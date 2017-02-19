@@ -1,6 +1,0 @@
-package herdingcats
-
-object Cats {
-
-}
-
